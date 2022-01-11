@@ -1,0 +1,4 @@
+[submodule "jasimibos/apon-wellbeing-odoo-main"]
+	path = jasimibos/apon-wellbeing-odoo-main
+	url = git@github.com:jasimibos/apon-wellbeing-odoo-main.git
+	branch = master
