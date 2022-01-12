@@ -2,3 +2,8 @@
 	path = jasimibos/apon-wellbeing-odoo-main
 	url = git@github.com:jasimibos/apon-wellbeing-odoo-main.git
 	branch = master
+
+[submodule "rauledgardo/odoo"]
+	path = rauledgardo/odoo
+	url = git@github.com:rauledgardo/odoo.git
+	branch = main
