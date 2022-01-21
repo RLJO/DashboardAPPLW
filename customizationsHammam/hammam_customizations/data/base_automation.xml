@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<odoo>
+  <record id="studio_customization.action_name_45c47f90-c7f8-40be-b424-23e065fc1ad3" model="base.automation" context="{'studio': True}">
+    <field name="action_server_id" ref="studio_customization.action_name_f98ea1ec-d504-4669-bb3f-6504ad6203c6"/>
+    <field name="active" eval="False"/>
+    <field name="filter_domain" eval="False"/>
+    <field name="filter_pre_domain" eval="False"/>
+    <field name="last_run" eval="False"/>
+    <field name="on_change_field_ids" eval="[(6, 0, [])]"/>
+    <field name="trg_date_id" eval="False"/>
+    <field name="trg_date_range" eval="False"/>
+    <field name="trg_date_range_type" eval="False"/>
+    <field name="trigger">on_create_or_write</field>
+  </record>
+  <record id="studio_customization.action_name_f3255e10-5a51-4bbb-9f42-a46ae43b33fa" model="base.automation" context="{'studio': True}">
+    <field name="action_server_id" ref="studio_customization.action_name_abbe7d1b-5b10-404a-9a57-4efe656e85dd"/>
+    <field name="active" eval="False"/>
+    <field name="filter_domain">[]</field>
+    <field name="filter_pre_domain">[]</field>
+    <field name="last_run" eval="False"/>
+    <field name="on_change_field_ids" eval="[(6, 0, [])]"/>
+    <field name="trg_date_id" eval="False"/>
+    <field name="trg_date_range" eval="False"/>
+    <field name="trg_date_range_type" eval="False"/>
+    <field name="trigger">on_create_or_write</field>
+  </record>
+  <record id="studio_customization.eda3again_2713d7db-55bc-4190-9920-15a88385f225" model="base.automation" context="{'studio': True}">
+    <field name="action_server_id" ref="studio_customization.eda3again_29357104-4215-40bc-bae2-a404d7803dae"/>
+    <field name="active" eval="True"/>
+    <field name="filter_domain" eval="False"/>
+    <field name="filter_pre_domain" eval="False"/>
+    <field name="last_run" eval="False"/>
+    <field name="on_change_field_ids" eval="[(6, 0, [])]"/>
+    <field name="trg_date_id" eval="False"/>
+    <field name="trg_date_range" eval="False"/>
+    <field name="trg_date_range_type" eval="False"/>
+    <field name="trigger">on_create_or_write</field>
+  </record>
+  <record id="studio_customization.wasf_item_9b8e1603-1942-4e1c-b51b-99bc2f2c507a" model="base.automation" context="{'studio': True}">
+    <field name="action_server_id" ref="studio_customization.wasf_item_cd04c86a-a718-4fca-9662-38422319b526"/>
+    <field name="active" eval="False"/>
+    <field name="filter_domain" eval="False"/>
+    <field name="filter_pre_domain" eval="False"/>
+    <field name="last_run" eval="False"/>
+    <field name="on_change_field_ids" eval="[(6, 0, [])]"/>
+    <field name="trg_date_id" eval="False"/>
+    <field name="trg_date_range" eval="False"/>
+    <field name="trg_date_range_type" eval="False"/>
+    <field name="trigger">on_create_or_write</field>
+  </record>
+</odoo>

@@ -1,0 +1,20 @@
+The following relational data haven't been exported because they either refer
+to a model that Studio doesn't export, or have no XML id:
+
+Record: studio_customization._fa7b5b56-f53d-44b6-ad38-c02b3c6cafdc
+Model: ir.actions.server
+Field: fields_lines
+Type: one2many
+Value: ir.server.object.lines(166,) ('ir.server.object.lines,166')
+
+Record: studio_customization.action_name_f98ea1ec-d504-4669-bb3f-6504ad6203c6
+Model: ir.actions.server
+Field: fields_lines
+Type: one2many
+Value: ir.server.object.lines(261, 262) ('ir.server.object.lines,261', 'ir.server.object.lines,262')
+
+Record: studio_customization.wasf_item_cd04c86a-a718-4fca-9662-38422319b526
+Model: ir.actions.server
+Field: fields_lines
+Type: one2many
+Value: ir.server.object.lines(175,) ('ir.server.object.lines,175')
