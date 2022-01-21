@@ -1,0 +1,263 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<odoo>
+  <record id="studio_customization._14af9a59-238c-412f-906d-48c89cc031eb" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.new_decimal_e5rag_li_ffe6bda2-c226-4678-8aa8-46e3216580c1"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">"0"</field>
+  </record>
+  <record id="studio_customization._cbb9ef41-b1f0-4d63-a9e6-c6cd37e69540" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.new_decimal_e5rag_li_bd5339b7-c9ca-4144-a3b6-b284a1bc5f21"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">"0"</field>
+  </record>
+  <record id="studio_customization.active_9009c2b0-3669-467f-bfa6-cbe0187f0283" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.active_ae0b7a27-f5a7-4b09-a9fc-8a0edfd84e14"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">true</field>
+  </record>
+  <record id="studio_customization.active_banks_6192eaa9-5583-43b7-ad09-8d19b5ca5aa3" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.active_banks_7ef3c07c-b3cf-4c23-b9bf-43d0b95abb18"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">true</field>
+  </record>
+  <record id="studio_customization.active_clearance_com_3b6d9fbe-0dfd-41de-8a75-580bf8687340" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.active_clearance_com_b8fb911e-fd9b-42d7-9086-86701b1bfa82"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">true</field>
+  </record>
+  <record id="studio_customization.active_companies_b7ee5de4-f1ea-44c2-afea-0f2d9476f16e" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.active_companies_ed41233f-1ced-423c-bc80-5b45d21fc5c5"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">true</field>
+  </record>
+  <record id="studio_customization.active_consignee_389dc685-00c8-4a0a-8232-44837222ee3d" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.active_consignee_54e1421c-ad48-4568-8f43-6e239148249f"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">true</field>
+  </record>
+  <record id="studio_customization.active_cus_position_371c1733-afb5-47d0-9f77-aaa5125fe6ca" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.active_cus_position_77d27bfd-64a2-42f7-b1a1-7d83f4393825"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">true</field>
+  </record>
+  <record id="studio_customization.active_customs_cente_0718c238-af88-40ec-bef3-8038518427c4" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.active_customs_cente_385ef587-38e6-400b-ae0a-88aeba3ae307"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">true</field>
+  </record>
+  <record id="studio_customization.active_customs_proce_9a8666e2-3598-437d-b3e4-4192916397c0" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.active_customs_proce_b13f3b65-a37f-49d8-9b6b-afbb9772147c"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">true</field>
+  </record>
+  <record id="studio_customization.active_customs_regul_4cff53a0-1bd6-4147-acf0-18f29f7aece7" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.active_customs_regul_5e91abc8-6a74-4138-8d82-6ff2de17a0ef"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">true</field>
+  </record>
+  <record id="studio_customization.active_declaration_8e22c70e-a449-462b-92d7-560e1b705609" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.active_declaration_5dbe782b-22e1-4e79-840f-f8c33615bef8"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">true</field>
+  </record>
+  <record id="studio_customization.active_e5rag_a5468043-8dd1-4bd3-89ba-e4713b9496ec" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.active_e5rag_f9d4b256-ef7f-4751-991c-fba40922b4a0"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">true</field>
+  </record>
+  <record id="studio_customization.active_eda3obj_1aa1ff56-85fe-4a37-bc38-876d1d397d08" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.active_eda3obj_d6995e7d-03ef-4ee5-ac05-fc0ed7814eaa"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">true</field>
+  </record>
+  <record id="studio_customization.active_hs_code_1ea00dda-e391-4102-8832-e15a010f29af" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.active_hs_code_04233763-dc12-466f-a4b2-1a4df777f313"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">true</field>
+  </record>
+  <record id="studio_customization.active_hs_code_line_b484802d-ffd5-4ff3-8600-279ab1879265" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.active_hs_code_line_0650acb5-6702-4f13-ac66-6f42d68e994e"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">true</field>
+  </record>
+  <record id="studio_customization.active_import_card_6c0f9bd6-d880-497e-8882-e7ce626e4902" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.active_import_card_0e2e2b2b-b27c-4d02-a423-9fbf40d52933"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">true</field>
+  </record>
+  <record id="studio_customization.active_item_family_bcf02a0e-7578-44eb-b834-db4128a0481d" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.active_item_family_af5241ab-6f82-42d5-99b6-055016452045"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">true</field>
+  </record>
+  <record id="studio_customization.active_items_f79ede48-142f-488e-92f6-a450b1af8caa" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.active_items_b930f81c-e94c-46c9-9e67-71169abe3fee"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">true</field>
+  </record>
+  <record id="studio_customization.active_job_type_bf07c6c3-134c-4cf0-bc0c-8373e9eb983e" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.active_job_type_aa5072b4-8a41-417f-994b-88efa7f5a647"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">true</field>
+  </record>
+  <record id="studio_customization.active_measurement_u_bdab9077-aced-4a7a-9087-c9f3a4560dfe" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.active_measurement_u_0817aea0-ae8b-45ba-ad49-3cd6c2328f17"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">true</field>
+  </record>
+  <record id="studio_customization.active_mu3adaleh_7or_b8441093-c8c6-4758-a9cc-88a84d086e64" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.active_mu3adaleh_7or_143f8522-cc1a-4519-ab7e-df75cf9991bf"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">true</field>
+  </record>
+  <record id="studio_customization.active_organizations_c1608b87-f119-4d7e-b569-a199976f5955" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.active_organizations_661d0acd-7566-4371-87f8-2a3fcc476e70"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">true</field>
+  </record>
+  <record id="studio_customization.active_owners_1be42855-f016-4c6b-9fc9-e5a76e1e5d51" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.active_owners_44a3f7a8-0cc9-4db3-b59c-3c876d7cf009"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">true</field>
+  </record>
+  <record id="studio_customization.active_transport_com_fe2be098-94b5-4a87-8927-cbed363b25eb" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.active_transport_com_235502eb-5068-4563-8b45-23b67dff12dc"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">true</field>
+  </record>
+  <record id="studio_customization.active_transportatio_830b06cf-ef92-4638-96be-b3b7c82735f9" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.active_transportatio_b28d100a-e7cd-4ee2-bb23-22b952904d52"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">true</field>
+  </record>
+  <record id="studio_customization.active_transportatio_9a37ac6c-e54c-4e61-bba0-cd0b018d1019" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.active_transportatio_7372e9cc-4f20-47dd-9349-19263e3813ec"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">true</field>
+  </record>
+  <record id="studio_customization.sequence_996ac531-0066-49de-99c4-23f08240a54f" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.sequence_8e855d25-d11d-4106-9b7f-6e8def3ff461"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">10</field>
+  </record>
+  <record id="studio_customization.sequence_banks_ecb4cd93-43c3-4168-8218-03e6ef0e28fe" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.sequence_banks_10dd1e28-b549-4019-98ff-947e87130269"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">10</field>
+  </record>
+  <record id="studio_customization.sequence_clearance_c_4a9e9fca-2690-408e-92a3-f0fd3f8c0357" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.sequence_clearance_c_23823f67-ed9d-4ea0-a3c3-f8e913c4da58"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">10</field>
+  </record>
+  <record id="studio_customization.sequence_companies_af5e2c0d-86be-4e2e-b4c2-c84e76b00e52" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.sequence_companies_50783f9a-0f5c-483b-9603-573b66ba25ad"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">10</field>
+  </record>
+  <record id="studio_customization.sequence_consignee_637c320d-43a9-4fdb-a1d6-5da570e80d1f" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.sequence_consignee_b1e18739-1f06-43db-80b1-72cf571a14ae"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">10</field>
+  </record>
+  <record id="studio_customization.sequence_cus_positio_61e6747a-71ed-4742-ba0a-f9bee2e67f57" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.sequence_cus_positio_b52d1b29-7d10-42af-8717-acc85f06c2f4"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">10</field>
+  </record>
+  <record id="studio_customization.sequence_customs_cen_56ebb631-4217-4a94-b80d-2ac3178fe514" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.sequence_customs_cen_0ac45a74-3c70-44ec-9622-040b2ae4f600"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">10</field>
+  </record>
+  <record id="studio_customization.sequence_customs_pro_a690945d-ce42-493b-ae74-d612c60a80c4" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.sequence_customs_pro_9c02258f-a3d5-4e4b-b1ae-4d1f6bb32736"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">10</field>
+  </record>
+  <record id="studio_customization.sequence_customs_reg_5e9ad4b0-a9fe-42a6-b35a-634417296ead" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.sequence_customs_reg_3696ee7c-e3a4-42fe-8adb-07e37156ca4a"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">10</field>
+  </record>
+  <record id="studio_customization.sequence_declaration_b09c0dec-5fa9-4d8f-900e-49a0825a7002" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.sequence_declaration_8faa0879-ea23-45c0-b21e-dec2500041f1"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">10</field>
+  </record>
+  <record id="studio_customization.sequence_e5rag_dc67cae6-d25f-46c5-8620-c5d20324837a" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.sequence_e5rag_2dd0d3ff-a6a5-4ed7-b730-80f49a9b657f"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">10</field>
+  </record>
+  <record id="studio_customization.sequence_eda3obj_3333f5a5-7658-41b1-babc-a4f856549881" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.sequence_eda3obj_abcafadd-002e-40a1-9c0c-bc4f58928717"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">10</field>
+  </record>
+  <record id="studio_customization.sequence_hs_code_19006491-2862-474a-bded-7e8840cb0602" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.sequence_hs_code_386be457-ad81-44b5-a4b5-b08c43fa2b26"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">10</field>
+  </record>
+  <record id="studio_customization.sequence_hs_code_lin_5c55deea-a694-40af-b243-c82ba6eea74a" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.sequence_hs_code_lin_c4194986-d20b-4a35-a6e2-0f1480c3d314"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">10</field>
+  </record>
+  <record id="studio_customization.sequence_import_card_30cb83ec-fcc0-4fca-ba2a-1dac010484b5" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.sequence_import_card_1de5ae86-4205-4abe-8ac9-b367728f7cac"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">10</field>
+  </record>
+  <record id="studio_customization.sequence_item_family_93169fba-b723-4270-bf69-e504f3664398" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.sequence_item_family_6a5319fd-6e5c-4a47-b495-5ef04b06756d"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">10</field>
+  </record>
+  <record id="studio_customization.sequence_items_0f3688ad-c0e2-4650-a1ca-24bb158a9c5c" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.sequence_items_223b537f-fe29-4add-9a8c-9ee9dcf3d462"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">10</field>
+  </record>
+  <record id="studio_customization.sequence_job_type_cdc25acb-6193-417e-8f40-075e4913e3ae" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.sequence_job_type_a6724807-0128-4b25-bbc2-7a37a0380f78"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">10</field>
+  </record>
+  <record id="studio_customization.sequence_measurement_a4b2584e-0535-4636-883f-4df7c14a7fb3" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.sequence_measurement_13388d1e-5c12-4c93-99ee-45df7b2d2575"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">10</field>
+  </record>
+  <record id="studio_customization.sequence_mu3adaleh_7_a90a8bea-e55f-470c-b236-adbff4b3dc6a" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.sequence_mu3adaleh_7_a657669f-a616-49ed-a862-fc3c76f59a68"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">10</field>
+  </record>
+  <record id="studio_customization.sequence_organizatio_f66b89ee-8b93-4f2b-96b9-dcf98dd93b80" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.sequence_organizatio_4e036e20-8ca9-4457-a18a-38e1a5e66d74"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">10</field>
+  </record>
+  <record id="studio_customization.sequence_owners_7461dc99-891d-44d3-8bb4-72f31307993b" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.sequence_owners_da99a4a0-a9c7-4078-a9d8-1ef57fff3842"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">10</field>
+  </record>
+  <record id="studio_customization.sequence_transport_c_ba0a5424-d41f-491a-be7f-d95b804c19c5" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.sequence_transport_c_b78dc187-eabf-40fa-bda7-703ad837ef9e"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">10</field>
+  </record>
+  <record id="studio_customization.sequence_transportat_2dc15c69-009d-497e-8b6d-cede570e02b5" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.sequence_transportat_c2fa4c77-e34b-43af-aa0e-e981976ef2f6"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">10</field>
+  </record>
+  <record id="studio_customization.sequence_transportat_3c10e28a-9caf-4ac0-861c-7b5628c47007" model="ir.default" context="{'studio': True}">
+    <field name="field_id" ref="studio_customization.sequence_transportat_98aa2242-4db1-4187-a8c1-b4e71fea26d7"/>
+    <field name="condition" eval="False"/>
+    <field name="json_value">10</field>
+  </record>
+</odoo>
